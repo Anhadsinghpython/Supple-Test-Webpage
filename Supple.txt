@@ -1,0 +1,69 @@
+   <div class="row">
+            <div class="card">
+                <div class="card-body">
+                  <center><h1 class="display-1">SEO Services</h1></center>
+                  <hr>
+                  <br>
+                  <div class="col">
+                    <i class="fas fa-chart-pie all-card fa-3x"></i>
+                    <h3 class="display-4">Competitor Analysis</h3>
+                    <p class="display-4">See what your competitors are doing - so you can do better.</p>
+                    <br>
+                    <i class="fas fa-search all-card fa-3x"></i>
+                    <h3 class="display-4">Keyword Research</h3>
+                    <p class="display-4">Finding the right keywords to use helps you be seen in more Google results.</p>
+                    <br>
+                    <i class="fas fa-code all-card fa-3x"></i>
+                    <h3 class="display-4">Structured Data Mark-up</h3>
+                    <p class="display-4">Structuring your data can help Google find & showcase your USPs better!</p>
+                    <br>
+                    <i class="fas fa-plane-departure all-card fa-3x"></i>
+                    <h3 class="display-4">Google Analytics Tracking</h3>
+                    <p class="display-4">Track how your site is performing to tailor a more dynamic SEO strategy.</p>
+                    <br>
+                    <i class="fas fa-tachometer-alt all-card fa-3x"></i>
+                    <h3 class="display-4">Page Speed Optimisation</h3>
+                    <p class="display-4">Fast loading speeds result in better user experience - and more conversions!</p>
+                    <br>
+                    <i class="fas fa-pastafarianism all-card fa-3x"></i>
+                    <h3 class="display-4">Building Page Authority</h3>
+                    <p class="display-4">Teaching Google to see you as an authority in your industry boosts your ranking.</p>
+                    <br>
+                    <i class="fas fa-link all-card fa-3x"></i>
+                    <h3 class="display-4">Link Building</h3>
+                    <p class="display-4">Acquire quality links to outperform your competition</p>
+                    <br>
+                    <i class="fas fa-location-arrow all-card fa-3x"></i>
+                    <h3 class="display-4">Local SEO</h3>
+                    <p class="display-4">Local SEO plays a huge part in customers’ search for brick and mortar stores, so we make sure our clients are found through local searches.</p>               
+                  </div>
+                </div>
+              </div>
+              <div id="previous row">
+                            <i class="fas fa-chevron-left fa-2x featured-in"></i>
+                    </div>
+                    <div id="main">
+                        <div id="slide-1">
+                            <p class="display-4">I engaged Supple to perform an audit for Aeon and have been very impressed by the quality of their work. I am now confident that Aeon meets industry best practice. I would not not hesitate to recommend Supple to others.</p>
+                            <img src="Aeon.png" class="img-fluid small-circle" alt=" Aeon">
+                            <h3 class="display-4">PaulHains Publisher & Co-founder</h3>
+                            <p class="display-4">Aeon</p>
+                        </div>
+                        <div id="slide-2">
+                            <p class="display-4">I engaged Supple to perform an audit for Aeon and have been very impressed by the quality of their work. I am now confident that Aeon meets industry best practice. I would not not hesitate to recommend Supple to others.</p>
+                            <img src="Aeon.png" class="img-fluid small-circle" alt=" Aeon">
+                            <h3 class="display-4">PaulHains Publisher & Co-founder</h3>
+                            <p class="display-4">Aeon</p>
+                        </div>
+                        <div id="slide-3">
+                            <p class="display-4">I engaged Supple to perform an audit for Aeon and have been very impressed by the quality of their work. I am now confident that Aeon meets industry best practice. I would not not hesitate to recommend Supple to others.</p>
+                            <img src="Aeon.png" class="img-fluid small-circle" alt=" Aeon">
+                            <h3 class="display-4">PaulHains Publisher & Co-founder</h3>
+                            <p class="display-4">Aeon</p>
+                        </div>
+                        <div id="next">
+                            <i class="fas fa-chevron-right fa-2x featured-in"></i>
+                    </div>
+                    
+
+                    
